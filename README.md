@@ -1,7 +1,10 @@
 ## Hey 👋, I'm Shariq Ahmed Khan :man_technologist:
 
 ### About :sunglasses:
-A Computer Engineer who loves to write code and discover new tech. Moreover, I am a full stack javascript developer having experience in cross platform mobile app development and web development.
+A Computer Engineer who loves to write code and discover new tech. Moreover, I am a Full Stack Javascript Developer having experience in cross platform mobile app development and web development.- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Atomic Pattern for React
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning Typescript and Next Js
 
 ### Technologies :fire:
 - Data Science.
