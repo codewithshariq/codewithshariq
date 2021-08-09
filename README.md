@@ -7,16 +7,18 @@
 </a>
 
 ### About :sunglasses:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 A Computer Engineer who loves to write code and discover new tech. Moreover, I am a Full Stack Javascript Developer having experience in cross platform mobile app development and web development.
+
 - I’m currently learning Atomic Pattern for React
 - I’m looking to collaborate on Open Source Projects
 - I’m currently learning Typescript and Next Js
 
 ### Technologies 🚀
-- Data Science.
-- Mobile application development using **React Native**.
+- Data Science
+- Mobile application development using **React Native**
 - Javascript
-- Competitive Programming.
+- Competitive Programming
 - System Design
 
 ### Languages and Tools 💻
@@ -43,10 +45,13 @@ A Computer Engineer who loves to write code and discover new tech. Moreover, I a
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshariq&theme=radical&hide=ruby,dockerfile,starlark" />
 </a>
 
-<br></br>
+<a href="https://github.com/codewithshariq">
 <img src="https://github-readme-stats.vercel.app/api?username=codewithshariq&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shariq's GitHub Stats" />
+</a>
 
+<!--
 ![](https://komarev.com/ghpvc/?username=codewithshariq&style=flat-square)
+-->
 
 <!--
 - 🔭 I’m currently working on ...
