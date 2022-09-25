@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Shariq Ahmed Khan :man_technologist:
-<a href="https://www.linkedin.com/in/shariq-ahmed-khan-0905871b5/" target="_blank">
+<a href="https://www.linkedin.com/in/shariq-fyaz/" target="_blank">
   <img height="25" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shariqfyaz@gmail.com">
@@ -15,11 +15,14 @@ A Computer Engineer who loves to write code and discover new tech. Moreover, I a
 - I’m currently learning Typescript and Next Js
 
 ### Technologies 🚀
-- Data Science
+- React JS
+- Next JS
+- React Query
+- Redux
+- Express
 - Mobile application development using **React Native**
 - Javascript
-- Competitive Programming
-- System Design
+- Typescript
 
 ### Languages and Tools 💻
 
