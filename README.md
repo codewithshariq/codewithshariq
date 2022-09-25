@@ -10,9 +10,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 A Computer Engineer who loves to write code and discover new tech. Moreover, I am a Full Stack Javascript Developer having experience in cross platform mobile app development and web development.
 
-- I’m currently learning Atomic Pattern for React
+- I’m currently learning GraphQL and Advanced Typescript
 - I’m looking to collaborate on Open Source Projects
-- I’m currently learning Typescript and Next Js
 
 ### Technologies 🚀
 - React JS
