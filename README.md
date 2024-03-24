@@ -41,7 +41,7 @@ A Computer Engineer who loves to write code and discover new tech. Moreover, I a
 <a href="https://github.com/codewithshariq"><img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://github.com/codewithshariq"><img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 
-
+<!--
 <br></br>
 <a href="https://github.com/codewithshariq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshariq&theme=radical&hide=ruby,dockerfile,starlark" />
@@ -50,6 +50,7 @@ A Computer Engineer who loves to write code and discover new tech. Moreover, I a
 <a href="https://github.com/codewithshariq">
 <img src="https://github-readme-stats.vercel.app/api?username=codewithshariq&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shariq's GitHub Stats" />
 </a>
+-->
 
 <!--
 ![](https://komarev.com/ghpvc/?username=codewithshariq&style=flat-square)
