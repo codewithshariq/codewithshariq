@@ -19,7 +19,6 @@ A Computer Engineer who loves to write code and discover new tech. Moreover, I a
 - React Query
 - Redux
 - Express
-- Mobile application development using **React Native**
 - Javascript
 - Typescript
 
