@@ -76,7 +76,7 @@ I care about products that feel fast, interfaces that are easy to reason about, 
 ### Certifications
 
 - [Cypher Fundamentals - Neo4j](https://graphacademy.neo4j.com/c/ed1cb53f-3398-4da1-8c43-cd2383edaade/)
-- [Neo4j Fundamentals - Neo4j](https://graphacademy.neo4j.com/c/ed1cb53f-3398-4da1-8c43-cd2383edaade/)
+- [Neo4j Fundamentals - Neo4j](https://graphacademy.neo4j.com/c/9886ad4b-334d-48c1-afb8-f17cff51f723/)
 - [Graph Developer - Associate - Apollo GraphQL](https://www.apollographql.com/tutorials/certifications/a2f3ce91-14fa-4fa0-bec9-9688c27dbf5f)
 - [JavaScript Algorithms and Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/fcc7913d8b3-cbd7-4eba-b57e-0cff9827cb6e/javascript-algorithms-and-data-structures)
 
